@@ -1,1 +1,0 @@
-import{_ as o}from"./index.cec863e6.js";import{o as t,e as r,F as a,f as e}from"./vendor.ac042b86.js";const n={},s=e("h1",null,"about",-1),c=e("h2",null,"\u65BD\u5DE5\u4E2D......",-1);function _(l,f){return t(),r(a,null,[s,c],64)}var d=o(n,[["render",_]]);export{d as default};
