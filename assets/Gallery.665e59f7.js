@@ -1,0 +1,1 @@
+import{_ as t}from"./index.cf47628b.js";import{o,e as r,F as a,f as e}from"./vendor.ac042b86.js";const s={},n=e("h1",null,"gallery",-1),c=e("h2",null,"\u65BD\u5DE5\u4E2D......",-1),_=e("a",{href:"http://101.43.245.64"},"\u540E\u53F0\u7BA1\u7406\u9879\u76EE",-1);function l(f,h){return o(),r(a,null,[n,c,_],64)}var m=t(s,[["render",l]]);export{m as default};
